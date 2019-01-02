@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">IncExpEx</string>
+    <string-array name="type">
+        <item>Select</item>
+        <item>Income</item>
+        <item>Expence</item>
+    </string-array>
+</resources>
